@@ -6,11 +6,11 @@ Soy un **Ingeniero de Datos** con experiencia en la construcción de soluciones 
 
 ### Lo que me define:
 
-* [cite_start]**Ingeniería de datos:** Diseño y optimización de pipelines de datos [cite: 18][cite_start], procesamiento de grandes volúmenes de datos [cite: 18][cite_start], y automatización de despliegues[cite: 31].
-* [cite_start]**Tecnologías de la nube:** Sólida experiencia en servicios de **AWS** y **Azure** [cite: 26, 36][cite_start], incluyendo la implementación de ingestión de datos desde múltiples fuentes[cite: 19].
-* [cite_start]**Databricks y Spark:** Amplio conocimiento en Databricks para la creación de pipelines [cite: 18][cite_start], migración de tablas a Delta Lake [cite: 22][cite_start], y optimización de clústeres[cite: 24].
-* [cite_start]**Lenguajes:** Dominio de **Python** y **Scala** para el desarrollo de aplicaciones de procesamiento de datos[cite: 26, 36].
-* [cite_start]**Metodología:** Experiencia en metodología **Agile**[cite: 36].
+* **Ingeniería de datos:** Diseño y optimización de pipelines de datos, procesamiento de grandes volúmenes de datos, y automatización de despliegues.
+* **Tecnologías de la nube:** Sólida experiencia en servicios de **AWS** y **Azure**, incluyendo la implementación de ingestión de datos desde múltiples fuentes.
+* **Databricks y Spark:** Amplio conocimiento en Databricks para la creación de pipelines, migración de tablas a Delta Lake, y optimización de clústeres.
+* **Lenguajes:** Dominio de **Python** y **Scala** para el desarrollo de aplicaciones de procesamiento de datos.
+* **Metodología:** Experiencia en metodología **Agile**.
 
 ---
 
@@ -28,24 +28,22 @@ Soy un **Ingeniero de Datos** con experiencia en la construcción de soluciones 
 
 ### Proyectos y Experiencia:
 
-[cite_start]He trabajado como **Ingeniero de Datos en Cognizant** [cite: 9] en proyectos para:
-* [cite_start]**Total Energies:** Donde diseñé y optimicé pipelines en Databricks y migré tablas a Delta Lake[cite: 18, 22].
-* [cite_start]**Santander:** Construí una plataforma Smart OCR API en la nube usando Azure Functions y OpenAI[cite: 28].
-* [cite_start]**Moeve (Cepsa):** Desarrollé pipelines ETL/ELT para modernizar el sistema de precios de la compañía[cite: 30].
+He trabajado como **Ingeniero de Datos en Cognizant** en proyectos para:
+* **Total Energies:** Donde diseñé y optimicé pipelines en Databricks y migré tablas a Delta Lake.
+* **Santander:** Construí una plataforma Smart OCR API en la nube usando Azure Functions y OpenAI.
+* **Moeve (Cepsa):** Desarrollé pipelines ETL/ELT para modernizar el sistema de precios de la compañía.
 
 ---
 
 ### Certificaciones:
 
-* [cite_start]Azure Certified Az-900 [cite: 37]
-* [cite_start]Informatica Implementation Practitioner [cite: 37]
-* [cite_start]Informatica Customer 360 SaaS [cite: 37]
-* [cite_start]Informatica Reference 360 SaaS [cite: 37]
+* Azure Certified Az-900
+* Informatica Implementation Practitioner
+* Informatica Customer 360 SaaS
+* Informatica Reference 360 SaaS
 
 ---
 
 ### Contacto y Proyectos Personales:
 
-* [cite_start]Puedes ver mis proyectos en mi perfil de GitHub: [https://github.com/Fervichoc/](https://github.com/Fervichoc/) [cite: 34]
-* [cite_start]Correo electrónico: `fernandovegama@gmail.com` [cite: 3]
-* [cite_start]Teléfono: `+41 77 288 51 68` [cite: 3]
+* Puedes ver mis proyectos en mi perfil de GitHub: [https://github.com/Fervichoc/](https://github.com/Fervichoc/)
