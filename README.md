@@ -9,7 +9,7 @@ I am a **Data Engineer** with experience in building scalable and efficient solu
 * **Data Engineering:** Designing and optimizing data pipelines, processing large volumes of data, and automating deployments.
 * **Cloud Technologies:** Solid experience with **AWS** and **Azure** services, including implementing data ingestion from multiple sources.
 * **Databricks and Spark:** Extensive knowledge of Databricks for pipeline creation, migrating tables to Delta Lake, and optimizing clusters.
-* **Languages:** Proficient in **Python** and **Scala** for developing data processing applications.
+* **Languages:** Proficient in **Python**, **SQL** and **Scala** for developing data processing applications.
 * **Methodology:** Experienced in the **Agile** methodology.
 
 ---
