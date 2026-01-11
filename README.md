@@ -28,10 +28,10 @@ I am a **Data Engineer** with experience in building scalable and efficient solu
 
 ### 🎓 Certifications:
 
+* Databricks Data Engineer Associate
 * Azure Certified Az-900
-* Informatica Implementation Practitioner
-* Informatica Customer 360 SaaS
-* Informatica Reference 360 SaaS
+* Informatica (Implementation Practitioner, Customer 360 SaaS and Reference 360 SaaS
+* CFA Investment Foundations certificate
 
 ---
 
